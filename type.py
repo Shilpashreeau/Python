@@ -1,4 +1,4 @@
-
+# to determine type
 
 x=eval(input("enter the value\n"))
 
